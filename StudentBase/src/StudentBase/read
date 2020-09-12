@@ -1,0 +1,11 @@
+
+                                         How the program works.
+
+  This program is used for storing and changing a database of students in college. The program reads a file of
+existing students (the text should be written in a predetermined order for the program to read it). It then creates
+the array of student objects and allows the user to Add new students, Change the parameters of existing students, View
+the list of students and exit the program.
+
+  When exiting, the program will write the new list of students to a file in a specific format for further use.
+
+
